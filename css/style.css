@@ -1,10 +1,17 @@
+Body{
+    font-family: "Poppins";
+}
+
 h1{
 color: blue;
 border-bottom: dotted green;
 background-color: gray;
 margin: auto;
+text-align: center;
+font-size: 25px;
 width: 50%;
 }
 p{
     text-align: center;
+    
 }
